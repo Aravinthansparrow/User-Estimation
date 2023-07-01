@@ -1,0 +1,12 @@
+.chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .chart-wrapper {
+    width: 400px;
+    height: 300px;
+  }
+  

@@ -1,0 +1,10 @@
+/* CSS styles for the left-side menu bar */
+.menu {
+   height: 100vh;
+   padding: 20px;
+   background-color: #107e78e8;
+  color: white;
+  font-weight: 500;
+}
+  
+ 
